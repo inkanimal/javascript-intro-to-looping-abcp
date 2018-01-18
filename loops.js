@@ -15,4 +15,3 @@ let countdown = number;
     console.log(--countdown)
   }
 }
-return "done";
